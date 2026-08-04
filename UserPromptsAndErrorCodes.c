@@ -1,6 +1,7 @@
 
 #include<stdio.h>
 #include"common.h"
+
 void UserPrompts(int FUNCTION_ID, int PROMPT_ID)
 {
     printf("INFO : ");
